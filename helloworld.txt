@@ -1,0 +1,4 @@
+Aprendendo alguns comandos de git:
+
+    - git init (Iniciando repositório local).
+    
