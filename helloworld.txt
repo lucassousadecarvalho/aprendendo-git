@@ -1,4 +1,10 @@
 Aprendendo alguns comandos de git:
 
     - git init (Iniciando repositório local).
+    - git add * (Adicionando todos os arquivos no repositório local).
+    - git commit -m "Descição das alterações" (Confirmando as alterações).
+    - git remote add origin https://github.com/meu-repositorio.git (Adiconando origem do repositório local para o repositório na nuvem).
+    - git push origin minha-branch (Subindo alterações para o repositório na nuvem).
+    - git pull origin minha-branch (Baixando o respositório da nuvem).
+
     
